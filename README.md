@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="http://195.122.251.157/" target="_blank">Dmitry </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> DevOps student Rebrain school , from Russia 🇷🇺</h3>
+<h3 align="center"> DevOps student <a  href="https://rebrainme.com" target="_blank">Rebrain </a> school , from Russia 🇷🇺</h3>
 
 # Project Title
 

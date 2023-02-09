@@ -5,6 +5,8 @@
 <!---Running string-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+student)](https://git.io/typing-svg)
 
+![This is alter text.](/SVG/freebsd.svg "Sample image.")
+
 # Project Title
 
 One Paragraph of project description goes here

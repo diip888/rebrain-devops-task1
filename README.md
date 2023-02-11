@@ -110,9 +110,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-|- [Billie Thompsom](https://github.com/PurpleBooth)| 
-|- [Maven](https://maven.apache.org/) - Dependency Management|
-|- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds|
+[Billie Thompsom](https://github.com/PurpleBooth) 
 
 ## Contributing
 
